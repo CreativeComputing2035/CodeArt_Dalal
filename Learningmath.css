@@ -1,0 +1,104 @@
+/* Begin CSS Reset code */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+/* End CSS Reset code */
+
+html{
+	background:white;
+    font-family: 'Minion Pro'
+}
+body{
+	background:silver;
+	width:100%;
+}
+header{
+	background: white;
+	height:80px;
+      text-align: center;
+    font-size: 3.5em;
+    color: magenta
+}
+nav{
+	background:paleturquoise;
+    height:40px;
+    font-size: 1.5em;
+    color:lightcoral
+}
+.block{
+    height: 140px;
+    width: 140px;
+    float: left;
+    margin: 50px 50px;
+}
+
+
+
+
+#block0{
+    background-color:violet;
+    color: white
+}
+#block1{
+    background-color:blueviolet;
+    color: white
+}
+#block2{
+    background-color:indigo;
+    color: white
+}
+#block3{
+    background-color:blue;
+    color: white
+}
+
+#block4{
+    background-color:aquamarine;
+    color: white
+}
+#block5{
+    background-color:green;
+    color: white
+}
+#block6{
+    background-color:yellowgreen;
+    color: white
+}
+#block7{
+    background-color:yellow;
+    color: white
+}
+#block8{
+    background-color:orange;
+    color: white
+}
+#block9{
+    background-color:orangered;
+    color: white
+}
+#block10{
+    background-color:red;
+    color: white
+}
